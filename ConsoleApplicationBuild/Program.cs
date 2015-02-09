@@ -10,7 +10,7 @@ namespace ConsoleApplicationBuild
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!_!!!!!");
+            Console.WriteLine("Hello world!);
         }
     }
 }
